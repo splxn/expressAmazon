@@ -1,0 +1,17 @@
+{
+  "name": "amazonexpress",
+  "version": "1.0.0",
+  "description": "Parse Amazon products via Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dima Gurkalenko",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "js-md5": "^0.4.0",
+    "lodash": "^4.6.1",
+    "request": "^2.69.0"
+  }
+}
